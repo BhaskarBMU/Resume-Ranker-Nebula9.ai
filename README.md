@@ -31,5 +31,5 @@ This project is a Streamlit application for analyzing resumes based on job descr
 ### Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/BhaskarBMU/Resume-Ranker-Nebula9.ai.git
    cd your-repo
