@@ -1,5 +1,5 @@
 from openai import OpenAI
-from langchain_community.document_loaders import PyPDFLoader
+from langchain.document_loaders import PyPDFLoader
 from langchain.embeddings.openai import OpenAIEmbeddings
 import numpy as np
 import pymupdf
